@@ -28,4 +28,5 @@ RunService.Render:Connect(function()
             end
         end
     end
+    task.wait()
 end)
