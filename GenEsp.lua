@@ -28,5 +28,4 @@ RunService.Render:Connect(function()
             end
         end
     end
-    tick(5)
 end)
